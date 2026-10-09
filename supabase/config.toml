@@ -1,0 +1,4 @@
+project_id = "sportstack"
+
+[functions.game-api]
+verify_jwt = true
